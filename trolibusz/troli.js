@@ -22,7 +22,7 @@ function jaratKiiras(elem, index){
 }
 
 function vegallomasKiiras(jarat){
-    document.getElementById("valasz").innerHTML=vegallomasNevek[jarat];
+    document.getElementById("vegallomasok").innerHTML=vegallomasNevek[jarat];
 }
 
 function fel() {
