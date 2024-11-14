@@ -1,0 +1,110 @@
+/* BODY */
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background-image: url(kepek/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    color: rgb(231,145,148);
+}
+
+
+/* HEADER */
+
+header{
+    background-color: rgb(247, 225, 255);
+    margin: auto;
+    border-radius: 55px;
+    margin-top: 1%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    border: 3.5px dashed rgb(231,145,148);
+}
+
+h1{
+    color: rgb(231,145,148);
+    text-align: center;
+    font-weight: bold;
+    font-size: 350%;
+}
+
+
+
+/* BODY */
+
+.body_div{
+    background-color: rgb(247, 225, 255);
+    margin-top: 1%;
+    padding: 2%;
+    border-radius: 55px;
+    border: 3.5px dashed rgb(231,145,148);
+}
+
+h2{
+    text-align: center;
+    font-weight: bold;
+    font-size: 250%;
+    text-decoration: underline;      
+}
+
+.body_szoveg{
+    font-size: 140%;
+    text-align: justify;
+    margin-top: 2%;
+}
+
+.body_szerelme_szoveg{
+    font-size: 100%;
+    text-align: justify;
+    margin-top: 2%;
+}
+
+.body_kep{
+    width: 80%;
+    height: 100%;
+    border-radius: 15px;
+    border: 5px solid rgb(231,145,148);
+}
+
+.body_kep_kepek_rola{
+    width: 95%;
+    height: 95%;
+    border-radius: 15px;
+    border: 5px solid rgb(231,145,148);
+}
+
+#body_kepek_rola_belso{
+    margin-top: 3%;
+}
+
+.body_lista{
+    margin-top: 2%;
+}
+
+.body_lista_elem{
+    margin-top: 4%;
+    font-size: 135%;
+    text-align: justify ;
+}
+
+
+/* FOOTER */
+
+footer{
+    background-color: rgb(247, 225, 255);
+    margin: auto;
+    border-radius: 55px;
+    margin-top: 1%;
+    border: 3.5px dashed rgb(231,145,148);
+    padding-right: 3%;
+    padding-top: 1.5%;
+}
+
+.footer_szoveg{
+    text-align: right;
+    font-size: 110%;
+}
